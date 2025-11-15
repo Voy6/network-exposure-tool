@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated files
+report.md
+debug_scan.xml
+sample_report.md
