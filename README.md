@@ -52,5 +52,5 @@ No third-party dependencies are required.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/network-exposure-tool.git
+git clone https://github.com/Voy6/network-exposure-tool.git
 cd network-exposure-tool
